@@ -76,3 +76,21 @@ nav a:hover{
     justify-content: center;
     margin-left:40px;
 }
+
+.services{
+    min-height: 100vh;
+    margin-left:40px;
+    align-content:center;
+}
+
+.contact{
+    min-height:fit-content;
+    margin-left:45%;
+}
+.footer-section h2{
+    color:red;
+}
+.footer-section p{
+    padding:5px;
+}
+
