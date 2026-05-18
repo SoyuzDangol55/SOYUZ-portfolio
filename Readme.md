@@ -7,6 +7,7 @@ The purpose of this project is to:
 - Share my projects with recruiters and developers
 - Practice frontend development
 
+---
 
 ## 📌 Future Improvements
 
@@ -16,3 +17,6 @@ The purpose of this project is to:
 - Integrate backend for contact form
 - Deploy using GitHub Pages
 
+---
+
+[output](https://soyuzdangol55.github.io/SOYUZ-portfolio/)
