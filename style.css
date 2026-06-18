@@ -58,9 +58,9 @@ nav a:hover{
 
 /* Image styling */
 .image img{
-    width:500px;
-    height:450px;
-    border-radius:30%;
+    width:450px;
+    height:auto;
+    border-radius:30px;
 }
 .btn1{
     color:white;
