@@ -16,9 +16,14 @@ body{
 header{
     display:flex;
     justify-content:space-between;
+    align-items:center;
     padding:20px 50px;
-    position:relative;
+    position:fixed;
     top:0;
+    left:0;
+    width:100%;
+    background-color:#0f172a;
+    z-index:1000;
 }
 .logo{
     font-size:22px;
@@ -26,7 +31,6 @@ header{
     color:#38bdf8;
     
 }
-
 nav a{
     margin-left:20px;
     color: white;
@@ -34,7 +38,9 @@ nav a{
 }
 
 nav a:hover{
-    color:#38bdf8;
+   padding:10px;
+    background-color: blanchedalmond;
+    color:#000000;
 }
 .maindiv{
     display:flex;
@@ -61,6 +67,7 @@ nav a:hover{
     width:450px;
     height:auto;
     border-radius:30px;
+    border:5px solid rgb(255, 255, 255);
 }
 .btn1{
     color:white;
